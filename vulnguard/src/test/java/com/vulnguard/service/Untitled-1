@@ -1,0 +1,4 @@
+# src/main/resources/application.properties
+spring.datasource.url=jdbc:postgresql://localhost:5432/vulnguard
+spring.datasource.username=<your‑user>
+spring.datasource.password=<your‑password>

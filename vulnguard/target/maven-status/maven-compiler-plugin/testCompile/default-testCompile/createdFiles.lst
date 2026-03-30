@@ -1,0 +1,5 @@
+com/vulnguard/mapper/VulnerabilityMapperTest.class
+com/vulnguard/service/SystemAssetServiceTest.class
+com/vulnguard/mapper/SystemAssetMapperTest.class
+com/vulnguard/service/ScanReportServiceTest.class
+com/vulnguard/IntegrationTest.class
